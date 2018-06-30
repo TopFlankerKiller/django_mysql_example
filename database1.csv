@@ -1,0 +1,15 @@
+occup_id;occupation;
+1;Programmer;
+2;Marketing Executive;
+3;Pharmacist;
+4;Lead Developer;
+user_id;name;
+1;Maria;
+2;Giorgos;
+3;Thodoris;
+4;Dafni;
+connection_id;user_id;occup_id
+1;1;3
+2;2;1
+3;3;4
+4;4;2
