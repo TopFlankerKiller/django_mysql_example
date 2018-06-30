@@ -63,7 +63,7 @@ ALTER TABLE `userhasoccupations`
 ```
 
 ## Result Image
-![result image]()
+![result image](https://github.com/TopFlankerKiller/django_mysql_example/blob/master/results.png)
 
 
 ## Important links
